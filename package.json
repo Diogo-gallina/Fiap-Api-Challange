@@ -1,0 +1,8 @@
+{
+  "name": "Fiap-Api-Challange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Diogo-gallina/Fiap-Api-Challange.git",
+  "author": "Diogo-gallina <diogogallina20@gmail.com>",
+  "license": "MIT"
+}
